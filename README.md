@@ -20,6 +20,7 @@
     <li><a href="https://start.spring.io/">Spring</a></li>
     <li><a href="https://gutendex.com/">Gutendex</a> (Não é necessário API Key)</li>
     <li><a href="https://www.postgresql.org/">PostgresSQL</a></li>
+    <li>Necessário criar o bando de dados chamado "LiterAlura_db" e criar as respectivas váriaveis de ambiente conforme estão em "application.properties".</li>
 
 
 <h2>Como usar</h2>
